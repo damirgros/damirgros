@@ -1,6 +1,6 @@
 ## About Me
 
-I'm a Web Developer with a focus on creating dynamic and responsive web applications. I specialize in **React** and **Express**, and I'm always eager to dive into new technologies and explore innovative solutions.
+I'm a Web Developer with a focus on creating dynamic and responsive web applications. I specialize in **React**, and I'm always eager to dive into new technologies and explore innovative solutions.
 
 ## Tech Stack
 
