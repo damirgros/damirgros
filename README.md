@@ -18,4 +18,4 @@ Feel free to explore my repositories and check out some of the projects I've bee
 
 *Find me on:*
 - [LinkedIn](www.linkedin.com/in/damir-groš-b18506299)
-- [Portfolio](https://damirgros.github.io/portfolio)
+- [Portfolio](https://portfoliox-red.vercel.app)
